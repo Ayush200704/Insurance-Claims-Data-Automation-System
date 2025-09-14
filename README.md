@@ -186,6 +186,11 @@ curl -X POST "http://localhost:8000/upload-data" \
 - **Automatic Download**: Files download automatically when ready
 - **Rich Visualizations**: Pie charts, bar charts, and data summaries
 
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/8880bc25-063d-4387-8e8e-09ca18715e09" />
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/3e551941-f169-4b27-ab11-49813a767cf5" />
+<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/37c85ff8-3d47-4094-bb65-552d662102a4" />
+
+
 ## 📊 API Endpoints
 
 ### Core Endpoints
